@@ -1,7 +1,4 @@
 # Algorithm-Studying
 Notes on algorithms
 
-
-
-- [Introduction to Algorithms](Introduction-to-Algorithms/Introduction to Algorithms.md)
-
+* [Introduction to Algorithms](Introduction-to-Algorithms/Introduction+to+Algorithms.md)
